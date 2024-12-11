@@ -1,0 +1,22 @@
+main{
+    display: flex;
+    height: 100vh;
+}
+
+html,body{
+    height: 100%;
+}
+
+#i {background-color: darkgreen; flex: 3;}
+
+#t{
+    background-color: black; height: 25%;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    padding-top: 60px;
+}
+
+#r{
+    background-color: red; flex: 1;
+}
